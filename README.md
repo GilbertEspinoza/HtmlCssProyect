@@ -1,4 +1,4 @@
-The following is a simple web application project, Delicious Restaurant where I wanted to put into practice the knowledge acquired in a 
+The following is a simple web application project, Delicious Restaurant, where I wanted to put into practice the knowledge acquired in a 
 course I was doing, familiarize myself with the basics of web design and its operation in the code. 
 
 For the same I used Video Studio Code as IDE
